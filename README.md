@@ -4,6 +4,18 @@
 
 ---
 
+![WooCOD Add to Cart Example](screenshots/demo-1.png)
+*Direct Add to Cart with COD button*
+
+![WooCOD Thank You Page](screenshots/demo-2.png)
+*Auto-redirect to Thank You page after COD order*
+
+![WooCOD Mobile Optimization](screenshots/demo-3.png)
+*Mobile-first optimized experience*
+
+---
+
+
 ## 🚀 Features
 
 - One-click COD checkout (no cart or payment step)
