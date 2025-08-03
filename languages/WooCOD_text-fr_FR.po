@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-02-23 16:32+0600\n"
+"PO-Revision-Date: 2024-10-20 01:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr;esc_attr__;esc_attr_e;esc_html;"
+"esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#: inc/wooecom_instant_order_form.php:173
+msgid " :"
+msgstr " :"
+
+#: inc/wooecom_settings.php:112
+msgid "Add Information Title"
+msgstr "Titre de formulaire"
+
+#: wooecom.php:628 inc/wooecom_settings.php:140
+msgid "Additional Information"
+msgstr "Informations Supplémentaires"
+
+#: wooecom.php:631 inc/wooecom_settings.php:132
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/wooecom_settings.php:169
+msgid "Background Color"
+msgstr "Couleur de fond"
+
+#: inc/wooecom_settings.php:164
+msgid "Button Color"
+msgstr "Couleur du bouton"
+
+#: wooecom.php:633
+msgid "Buy Now"
+msgstr "Acheter maintenant"
+
+#: inc/wooecom_settings.php:148
+msgid "Buy Now Button"
+msgstr "Bouton Acheter Maintenant"
+
+#: inc/wooecom_settings.php:144
+msgid "Checkout Button"
+msgstr "Bouton de demande"
+
+#: inc/wooecom_instant_order_form.php:436
+msgid "Choose the state"
+msgstr "Choisissez l'état"
+
+#: wooecom.php:630 inc/wooecom_settings.php:128
+msgid "City"
+msgstr "Ville"
+
+#: inc/wooecom_settings.php:104
+msgid "Colors"
+msgstr "Couleurs"
+
+#: inc/elementor/order-form.php:98
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/wooecom_settings.php:227
+msgid "Coupon Code"
+msgstr "activer l'option Code Promo"
+
+#: inc/wooecom_instant_order_form.php:451
+msgid "Coupon Discount"
+msgstr "Code promo"
+
+#: inc/wooecom_instant_order_form.php:420
+msgid "Delivery Price"
+msgstr "Prix ​​de livraison"
+
+#: inc/wooecom_settings.php:196
+msgid "Display city field in form"
+msgstr "Afficher le champ de la ville dans le formulaire"
+
+#: inc/wooecom_settings.php:199
+msgid "Display state field in form"
+msgstr "Afficher le champ d'état dans le formulaire"
+
+#: wooecom.php:627 inc/wooecom_settings.php:136
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/wooecom_settings.php:179
+msgid "Field Background"
+msgstr "Couleur de Fond du champ"
+
+#: inc/wooecom_settings.php:184
+msgid "Field Border on Select"
+msgstr "Couleur de cadre du champ"
+
+#: wooecom.php:467
+msgid "Fixed Shipping"
+msgstr "Expédition fixe"
+
+#: inc/wooecom_settings.php:244
+msgid "Fixed Shipping Fee"
+msgstr "Prix ​​de livraison fixe (si vous n'utilisez pas la région/l'état)"
+
+#: wooecom.php:158
+msgid "Free"
+msgstr "Gratuit"
+
+#: inc/wooecom_settings.php:116
+msgid "Full Name"
+msgstr "Nom complet"
+
+#: inc/wooecom_settings.php:205
+msgid "Hide additional field."
+msgstr "Cacher le champ d'Informations Supplémentaires dans le formulaire."
+
+#: inc/wooecom_settings.php:208
+msgid "Hide address field in order form"
+msgstr "Cacher le champ d'adresse dans le formulaire de commande"
+
+#: inc/wooecom_settings.php:202
+msgid "Hide email field."
+msgstr "Cacher le champ d'E-mail dans le formulaire."
+
+#. Author URI of the plugin
+msgid "https://www.wooecom.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Instantly order item from the product page itself. No hassle of cart or "
+"checkout page."
+msgstr ""
+
+#: inc/wooecom_settings.php:211
+msgid "Keep order summary open in order form"
+msgstr ""
+"Garder les détails de la commande ouvert dans le formulaire de commande"
+
+#: wooecom.php:625
+msgid "Name"
+msgstr "Nom complet"
+
+#: wooecom.php:624
+msgid "No header text added"
+msgstr ""
+"Pour commander, entrez vos informations dans les cases ci-dessous, puis "
+"cliquez sur le bouton Commander maintenant"
+
+#: wooecom.php:399
+msgid "No shipping methods set"
+msgstr "Aucune méthode de livraison définie"
+
+#: inc/wooecom_settings.php:105
+msgid "Options"
+msgstr "Paramètres"
+
+#: inc/wooecom_settings.php:240
+msgid "Order Recieved URL"
+msgstr "LIEN de la page commande reçue"
+
+#: inc/wooecom_instant_order_form.php:378
+msgid "Order summary"
+msgstr "Détail de la commande"
+
+#: inc/wooecom_settings.php:154
+msgid "Order Summary Heading Background"
+msgstr "Couleur de fond du titre du détail de la commande"
+
+#: inc/wooecom_settings.php:159
+msgid "Order Summary Heading Color"
+msgstr "Couleur du titre du détail de la commande"
+
+#: wooecom.php:626
+msgid "Phone"
+msgstr "Téléphone"
+
+#: inc/wooecom_settings.php:120
+msgid "Phone Number"
+msgstr "Téléphone"
+
+#: inc/wooecom_settings.php:266
+msgid "Phone Number Pattern"
+msgstr "Modèle de numéro de téléphone"
+
+#: inc/wooecom_settings.php:221
+msgid "Place Button At Bottom"
+msgstr "Placer le bouton de commande en bas"
+
+#: wooecom.php:632
+msgid "Place Order"
+msgstr "Commandez maintenant"
+
+#: inc/wooecom_settings.php:256
+msgid "Prevent 2nd order in 24hours"
+msgstr ""
+"Activez la fonctionnalité d'envoi d'une seule commande dans les 24 heures"
+
+#: inc/wooecom_settings.php:250
+msgid "Prevent autocomplete for form fields"
+msgstr "Empêcher la saisie semi-automatique dans les zones de formulaire"
+
+#: inc/wooecom_settings.php:253
+msgid "Prevent copy pasting informations in order form"
+msgstr "Empêcher de copier et coller du texte dans les cellules du formulaire"
+
+#: inc/elementor/order-form.php:122
+msgid "Products"
+msgstr "Des produits"
+
+#: inc/wooecom_settings.php:262
+msgid "Save abandoned order"
+msgstr "Activer la fonctionnalité de sauvegarde des Commandes abandonnées"
+
+#: inc/wooecom_settings.php:271
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: inc/elementor/order-form.php:112
+msgid "Select a product"
+msgstr "Choisissez un produit"
+
+#: inc/wooecom_settings.php:106
+msgid "Settings"
+msgstr "Paramètres Avancés"
+
+#: inc/wooecom_settings.php:224
+msgid "Show for mobile only"
+msgstr "Afficher le formulaire uniquement sur mobile"
+
+#: inc/wooecom_settings.php:217
+msgid "Show modern UI"
+msgstr "Afficher l'interface utilisateur moderne"
+
+#: inc/wooecom_settings.php:214
+msgid "Show phone and what's app icon at the sticky footer"
+msgstr "Afficher l'icône d'appeler le téléphone et WhatsApp (sur téléphone)"
+
+#: inc/wooecom_settings.php:107
+msgid "Spam Protection"
+msgstr "Anti-Spam"
+
+#: wooecom.php:629 inc/wooecom_settings.php:124
+msgid "State"
+msgstr "Etat / Région"
+
+#: inc/wooecom_settings.php:259
+msgid "Stop ordering again wihtin 24 hours using browswer cookies"
+msgstr ""
+"Arrêtez de commander à nouveau dans les 24 heures en utilisant les cookies "
+"du navigateur"
+
+#: inc/wooecom_settings.php:174
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#. Author of the plugin
+msgid "The WooEcom Team"
+msgstr ""
+
+#: inc/wooecom_settings.php:103
+msgid "Titles"
+msgstr "Titres"
+
+#: inc/wooecom_instant_order_form.php:460
+msgid "Total Price"
+msgstr "Prix ​​total"
+
+#: inc/wooecom_settings.php:189
+msgid "Total Price Color"
+msgstr "Couleur du prix total"
+
+#: inc/wooecom_settings.php:236
+msgid "What's App Number"
+msgstr "Numéro de téléphone What's App"
+
+#. Name of the plugin
+msgid "WooEcom"
+msgstr ""
+
+#: inc/elementor/order-form.php:30
+msgid "WooEcom Instant Order"
+msgstr "Commande instantanée WooEcom"
+
+#: inc/wooecom_instant_order_form.php:46
+msgid "You must insert the information form then send order"
+msgstr "Remplissez le formulaire et envoyez la commande"
+
+#: inc/wooecom_settings.php:232
+msgid "Your Phone Number"
+msgstr "Votre numéro de téléphone"

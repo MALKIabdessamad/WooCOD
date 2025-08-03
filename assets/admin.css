@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.WooCOD_settings_title{
+    color: #B83274 ;
+    font-size: 25px !important;
+    font-weight: 800 !important;
+    border-bottom: 1px solid #e0e0e0 ;
+    font-family: 'Poppins', sans-serif ;
+}
+
+ul.WooCOD_tab_title {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+ul.WooCOD_tab_title li{
+    padding: 5px 10px ;
+    font-size: 14px; 
+    font-weight: 500 ;
+    color: #000 ;
+    border: 1px solid rgba(0,0,0,0.1);
+    background: #DCDCDE ;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    margin: 0 5px ;
+    user-select: none;
+    cursor: pointer ;
+    line-height: 1.70em;
+    margin-bottom: -1px ;
+    
+}
+
+ul.WooCOD_tab_title li:hover{
+    background: #FFFFFF ;
+}
+
+ul.WooCOD_tab_title li.active{
+    background:  #F0F0F1;
+    color: #000;
+    border-bottom: 1px solid #F0F0F1 ;
+}
+
+.WooCOD_form_group{
+    display: flex ;
+    align-items: center ;
+    margin: 15px 0 ;
+}
+
+.WooCOD_form_group > label{
+    font-weight: 500 ;
+    color: #000 ;
+    width: 200px ;
+    display: block ;
+}
+
+.WooCOD_form_group > input{
+    font-size: 14px; 
+    font-weight: 400 ;
+    width: 400px ;
+    display: block ;
+}
+
+.WooCOD_form_group > input[type="color"]{
+    width: 60px;
+}
+
+.WooCOD_form_group > input[type="checkbox"]{
+    width: 16px;
+    display: inline-block ;
+}
+
+.WooCOD_tab_content > li{
+    display: none ;
+}
+
+.WooCOD_tab_content > li.active{
+    display: block ;
+    animation: fade .3s ease ;
+}
+
+.WooCOD_tab_content{
+    padding: 10px 5px;
+}
+
+@keyframes fade{
+    from{
+        opacity: 0 ;
+    }
+    to{
+        opacity: 1 ;
+    }
+}
+
+.WooCOD_delivery_buttons{
+    display: flex; 
+    justify-content: space-between ;
+    max-width: 360px ;
+    width: 100%;
+    margin-top: 15px ;
+}
+
+.WooCOD_states{
+    margin-top: 20px ;
+}
+
+.WooCOD_single_state{
+    margin-top: 10px ;
+}
+
+
+.WooCOD_remove_state {
+    background: red;
+    color: #fff;
+    width: 16px;
+    height: 16px;
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.WooCOD_form_group > input[type="color"] + input[type="text"]{
+    width: 120px ;
+    margin-left: 10px;
+}

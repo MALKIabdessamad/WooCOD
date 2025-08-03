@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-02-23 11:30+0600\n"
+"PO-Revision-Date: 2024-10-20 01:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr;esc_attr__;esc_attr_e;esc_html;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#: inc/wooecom_instant_order_form.php:173
+msgid " :"
+msgstr ""
+
+#: inc/wooecom_settings.php:112
+msgid "Add Information Title"
+msgstr "اضافة نص في عنوان الفورم"
+
+#: wooecom.php:628 inc/wooecom_settings.php:140
+msgid "Additional Information"
+msgstr "معلومات إضافية"
+
+#: wooecom.php:631 inc/wooecom_settings.php:132
+msgid "Address"
+msgstr "العنوان"
+
+#: inc/wooecom_settings.php:169
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: inc/wooecom_settings.php:164
+msgid "Button Color"
+msgstr "لون الزر"
+
+#: wooecom.php:633
+msgid "Buy Now"
+msgstr "اشتري الآن"
+
+#: inc/wooecom_settings.php:148
+msgid "Buy Now Button"
+msgstr "زر اشتري الان المثبت"
+
+#: inc/wooecom_settings.php:144
+msgid "Checkout Button"
+msgstr "زر الطلب في الفورم"
+
+#: inc/wooecom_instant_order_form.php:436
+msgid "Choose the state"
+msgstr "اختر المنطقة"
+
+#: wooecom.php:630 inc/wooecom_settings.php:128
+msgid "City"
+msgstr "المدينة"
+
+#: inc/wooecom_settings.php:104
+msgid "Colors"
+msgstr "الألوان"
+
+#: inc/elementor/order-form.php:98
+msgid "Content"
+msgstr "محتوى"
+
+#: inc/wooecom_settings.php:227
+msgid "Coupon Code"
+msgstr "تفعيل رمز القسيمة"
+
+#: inc/wooecom_instant_order_form.php:451
+msgid "Coupon Discount"
+msgstr "الكوبون"
+
+#: inc/wooecom_instant_order_form.php:420
+msgid "Delivery Price"
+msgstr "سعر الشحن"
+
+#: inc/wooecom_settings.php:196
+msgid "Display city field in form"
+msgstr "اظهار خانة المدينة في الفورم"
+
+#: inc/wooecom_settings.php:199
+msgid "Display state field in form"
+msgstr "اظهار خانة المنطقة / الولاية"
+
+#: wooecom.php:627 inc/wooecom_settings.php:136
+msgid "Email"
+msgstr "الايميل"
+
+#: inc/wooecom_settings.php:179
+msgid "Field Background"
+msgstr "لون خانات الفورم"
+
+#: inc/wooecom_settings.php:184
+msgid "Field Border on Select"
+msgstr "لون إطار خانات الفورم"
+
+#: wooecom.php:467
+msgid "Fixed Shipping"
+msgstr "الشحن الثابت"
+
+#: inc/wooecom_settings.php:244
+msgid "Fixed Shipping Fee"
+msgstr "سعر شحن ثابت ( إذا كنت لا تستعمل المنطقة / الولاية )"
+
+#: wooecom.php:158
+msgid "Free"
+msgstr "مجانا"
+
+#: inc/wooecom_settings.php:116
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#: inc/wooecom_settings.php:205
+msgid "Hide additional field."
+msgstr "اخفاء خانة المعلومات الاضافية."
+
+#: inc/wooecom_settings.php:208
+msgid "Hide address field in order form"
+msgstr "اخفاء خانة العنوان"
+
+#: inc/wooecom_settings.php:202
+msgid "Hide email field."
+msgstr "اخفاء خانة الايميل."
+
+#. Author URI of the plugin
+msgid "https://www.wooecom.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Instantly order item from the product page itself. No hassle of cart or "
+"checkout page."
+msgstr ""
+
+#: inc/wooecom_settings.php:211
+msgid "Keep order summary open in order form"
+msgstr "جعل ملخص الطلب يظهر دائما"
+
+#: wooecom.php:625
+msgid "Name"
+msgstr "الاسم الكامل"
+
+#: wooecom.php:624
+msgid "No header text added"
+msgstr "للطلب أدخل معلوماتك في الخانات أسفله  ثم إضغط على زر اطلب الان"
+
+#: wooecom.php:399
+msgid "No shipping methods set"
+msgstr "لم يتم تحديد طرق الشحن"
+
+#: inc/wooecom_settings.php:105
+msgid "Options"
+msgstr "إعدادات"
+
+#: inc/wooecom_settings.php:240
+msgid "Order Recieved URL"
+msgstr "تغيير رابط صفحة الشكر"
+
+#: inc/wooecom_instant_order_form.php:378
+msgid "Order summary"
+msgstr "ملخص الطلب"
+
+#: inc/wooecom_settings.php:154
+msgid "Order Summary Heading Background"
+msgstr "لون خلفية ملخص الطلبية"
+
+#: inc/wooecom_settings.php:159
+msgid "Order Summary Heading Color"
+msgstr "لون عنوان ملخص الطلبية"
+
+#: wooecom.php:626
+msgid "Phone"
+msgstr "رقم الهاتف"
+
+#: inc/wooecom_settings.php:120
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: inc/wooecom_settings.php:266
+msgid "Phone Number Pattern"
+msgstr "نمط رقم الهاتف"
+
+#: inc/wooecom_settings.php:221
+msgid "Place Button At Bottom"
+msgstr "وضع زر الطلب في الأسفل"
+
+#: wooecom.php:632
+msgid "Place Order"
+msgstr "اطلب الآن"
+
+#: inc/wooecom_settings.php:256
+msgid "Prevent 2nd order in 24hours"
+msgstr "تفعيل خاصية ارسال طلبية واحد فقط خلال 24 ساعة"
+
+#: inc/wooecom_settings.php:250
+msgid "Prevent autocomplete for form fields"
+msgstr "منع الإكمال التلقائي في خانات الفورم"
+
+#: inc/wooecom_settings.php:253
+msgid "Prevent copy pasting informations in order form"
+msgstr "منع نسخ و لصق النص في خانات الفورم"
+
+#: inc/elementor/order-form.php:122
+msgid "Products"
+msgstr "منتجات"
+
+#: inc/wooecom_settings.php:262
+msgid "Save abandoned order"
+msgstr "تفعيل خاصية حفظ الطلبات المتروكة"
+
+#: inc/wooecom_settings.php:271
+msgid "Save Settings"
+msgstr "احفظ التغييرات"
+
+#: inc/elementor/order-form.php:112
+msgid "Select a product"
+msgstr "اختر المنتج"
+
+#: inc/wooecom_settings.php:106
+msgid "Settings"
+msgstr "الاعدادات المتقدمة"
+
+#: inc/wooecom_settings.php:224
+msgid "Show for mobile only"
+msgstr "عرض فورم الطلب في الهواتف فقط"
+
+#: inc/wooecom_settings.php:217
+msgid "Show modern UI"
+msgstr "إظهار واجهة المستخدم الحديثة"
+
+#: inc/wooecom_settings.php:214
+msgid "Show phone and what's app icon at the sticky footer"
+msgstr "اظهار ايقونة الاتصال بالهاتف و الواتس اب ( في الهاتف"
+
+#: inc/wooecom_settings.php:107
+msgid "Spam Protection"
+msgstr "محاربة السبام"
+
+#: wooecom.php:629 inc/wooecom_settings.php:124
+msgid "State"
+msgstr "المنطقة"
+
+#: inc/wooecom_settings.php:259
+msgid "Stop ordering again wihtin 24 hours using browswer cookies"
+msgstr "طلب واحد خلال 24 ساعة باستخدام ملفات تعريف الارتباط للمتصفح ضد  ال VPN"
+
+#: inc/wooecom_settings.php:174
+msgid "Text Color"
+msgstr "لون النص"
+
+#. Author of the plugin
+msgid "The WooEcom Team"
+msgstr ""
+
+#: inc/wooecom_settings.php:103
+msgid "Titles"
+msgstr "العناوين"
+
+#: inc/wooecom_instant_order_form.php:460
+msgid "Total Price"
+msgstr "السعر الإجمالي"
+
+#: inc/wooecom_settings.php:189
+msgid "Total Price Color"
+msgstr "لون السعر الاجمالي"
+
+#: inc/wooecom_settings.php:236
+msgid "What's App Number"
+msgstr "رقمك وتساب"
+
+#. Name of the plugin
+msgid "WooEcom"
+msgstr ""
+
+#: inc/elementor/order-form.php:30
+msgid "WooEcom Instant Order"
+msgstr "WooEcom الطلب الفوري"
+
+#: inc/wooecom_instant_order_form.php:46
+msgid "You must insert the information form then send order"
+msgstr "قم بإدخال المعلومات ثم إرسال الطلب"
+
+#: inc/wooecom_settings.php:232
+msgid "Your Phone Number"
+msgstr "رقم هاتفك"
