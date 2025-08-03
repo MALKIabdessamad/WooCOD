@@ -4,14 +4,10 @@
 
 ---
 
-![WooCOD Add to Cart Example](screenshots/demo-1.png)
-*Direct Add to Cart with COD button*
 
-![WooCOD Thank You Page](screenshots/demo-2.png)
-*Auto-redirect to Thank You page after COD order*
+<img src="wooCOD-demo-0.png" alt="WooCOD Demo 1" width="100%"/>
+<br/>
 
-![WooCOD Mobile Optimization](screenshots/demo-3.png)
-*Mobile-first optimized experience*
 
 ---
 
